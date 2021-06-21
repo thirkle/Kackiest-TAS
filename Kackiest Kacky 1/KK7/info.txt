@@ -1,4 +1,5 @@
 ----- Possible optimizations: -----
+- Beginning without those small taps to align the car
 - Bonk at the ceiling turning the nose down with more speed for faster bugfin
 
 ----- Inputs & Route from: -----
